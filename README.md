@@ -95,7 +95,7 @@ Finish time: 4:11pm
 
 Actual time needed to complete: 5 hours
 
-Feature 6: SQL Server Setup and schema.sql
+Feature 7: SQL Server Setup and schema.sql
 
 Estimate of time needed to complete: 40 minutes
 
@@ -104,3 +104,13 @@ Start time: 9:20am
 Finish time: 10:10am
 
 Actual time needed to complete: 50 minutes
+
+Feature 8: Using SQL Server
+
+Estimate of time needed to complete: 40 minutes
+
+Start time: 10:15am
+
+Finish time: 12:03pm
+
+Actual time needed to complete: 105 minutes
