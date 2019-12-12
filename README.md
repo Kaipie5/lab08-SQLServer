@@ -101,6 +101,6 @@ Estimate of time needed to complete: 40 minutes
 
 Start time: 9:20am
 
-Finish time: 
+Finish time: 10:10am
 
-Actual time needed to complete: 
+Actual time needed to complete: 50 minutes
