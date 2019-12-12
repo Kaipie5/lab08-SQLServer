@@ -3,6 +3,7 @@
 const express = require('express');
 require('dotenv').config();
 const cors = require('cors');
+const pg = require('pg')
 
 const app = express();
 app.use(cors());
